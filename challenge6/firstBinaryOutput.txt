@@ -1,0 +1,2 @@
+FTP at 138.47.99.64 - port 21 - user is salt - pass is tlasXXXXY - where XXXX is a TimeLock code and Y is the last character of the final TimeLock hash - TimeLock epoch is 2021-01-01 00:00:00 - sync your time using telnet or netcat on port 54321
+/Users/cordusbailey/Desktop/forChallenges/04a2b26b86b28c6ff4359e2a7bfea4e9.bmp
